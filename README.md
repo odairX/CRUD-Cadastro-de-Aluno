@@ -32,3 +32,4 @@ Todos os componentes estritamente necessários para o projeto já estão criados
 
 ## Telas do Projeto funcionando:
 
+![Alt text](/img/img1.png?raw=true "Imagem do sistema CRUD Aluno")
