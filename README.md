@@ -12,7 +12,7 @@ Todos os componentes estritamente necessários para o projeto já estão criados
 - Exibir informações detalhadas de um aluno selecionado; 
 - Adicionar um novo aluno à lista;
 - Alterar um aluno da lista;
-- Apagar um aluno da lista.
+- Excluir um aluno da lista.
 
 ## Requisitos do projeto
 
@@ -32,4 +32,4 @@ Todos os componentes estritamente necessários para o projeto já estão criados
 
 ## Telas do Projeto funcionando:
 
-![Alt text](/img/img1.png?raw=true "Imagem do sistema CRUD Aluno")
+![Alt text](/tree/master/img/img1.png?raw=true "Imagem do sistema CRUD Aluno")
