@@ -1,0 +1,26 @@
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\CRUD Aluno.exe.config
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\CRUD Aluno.exe
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\CRUD Aluno.pdb
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\linq2db.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\linq2db.xml
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD_Aluno.Properties.Resources.resources
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.csproj.GenerateResource.cache
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.csproj.CopyComplete
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.exe
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.pdb
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD_Aluno.Form1.resources
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\lcpi.data.oledb.net4_7_2.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\lcpi.lib.net4_7_2.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\lcpi.data.oledb.net4_7_2.pdb
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\lcpi.lib.net4_7_2.pdb
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\ru\lcpi.data.oledb.net4_7_2.resources.dll
+C:\Users\Odair\source\repos\CRUD Aluno\bin\Debug\ru\lcpi.lib.net4_7_2.resources.dll
+C:\Users\Odair\source\repos\CRUD Aluno\obj\Debug\CRUD Aluno.csproj.AssemblyReference.cache

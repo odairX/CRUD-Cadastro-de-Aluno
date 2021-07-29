@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD Aluno", "CRUD Aluno.csproj", "{FDFE5C0B-64C9-4273-BB87-A3FB1A1BF466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFE5C0B-64C9-4273-BB87-A3FB1A1BF466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFE5C0B-64C9-4273-BB87-A3FB1A1BF466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFE5C0B-64C9-4273-BB87-A3FB1A1BF466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFE5C0B-64C9-4273-BB87-A3FB1A1BF466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CA261C-BFDB-4303-809B-96E06E67E2A3}
+	EndGlobalSection
+EndGlobal
