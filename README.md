@@ -32,4 +32,4 @@ Todos os componentes estritamente necessários para o projeto já estão criados
 
 ## Telas do Projeto funcionando:
 
-![image](/tree/master/img/img1.png?raw=true "Imagem do sistema CRUD Aluno")
+![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img1.PNG)
