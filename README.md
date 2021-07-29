@@ -14,9 +14,9 @@ Este repositório contém arquivos criados e configurados de acordo com ambiente
 
 1- O FireBird 3.0 - pode ser baixado no seguinte link:https://firebirdsql.org/en/server-packages/
 
-2- O provedor FireBird .NET Provider 3.0.2.0.7 - pode ser baixado no link :https://www.firebirdsql.org/en/net-provider/
+2- Existem ferramentas com interface gráfica para administrar o Banco de Dados FireBird :(opcional) como exemplo a IBExpert.
 
-3- Existem ferramentas com interface gráfica para administrar o Banco de Dados FireBird :(opcional) como exemplo a IBExpert.
+3- O provedor FireBird .NET Provider 3.0.2.0.7 - pode ser baixado no link :https://www.firebirdsql.org/en/net-provider/
 
 4- ADO.NET é um conjunto de classes do .NET Framework, desenvolvidas para facilitar o acesso das aplicações à bases de dados de diversos tipos, especialmente bancos de dados, como Firebird.
 
