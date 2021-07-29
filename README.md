@@ -2,13 +2,13 @@
 
 ## Escopo do Projeto
 
-Este repositório já contém arquivos criados e configurados de acordo com ambiente de densevolvimento listado abaixo. Nele vai ser apresentado como criar um CRUD cadastro aluno acessando o o banco de dados e a tabela no FireBird usando a ferramenta de linha de comando ISQL Tool que vem junto como FireBird. Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você não precisará realizar algumas configuração adicionais. Todos os componentes estritamente necessários para o projeto já estão criados, mas você pode adicionar outros se julgar necessário. Você deverá complementar estes componentes de forma a satisfazer os requisitos listados na próxima seção.
+Este repositório contém arquivos criados e configurados de acordo com ambiente de densevolvimento listado abaixo. Nele vai ser apresentado como criar um CRUD cadastro aluno acessando o o banco de dados e a tabela no FireBird usando a ferramenta de linha de comando ISQL Tool que vem junto como FireBird. Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você não precisará realizar algumas configuração adicionais. Todos os componentes estritamente necessários para o projeto já estão criados, mas você pode adicionar outros se julgar necessário. Você deverá complementar estes componentes de forma a satisfazer os requisitos listados na próxima seção.
 
 - Buscar todos os alunos cadastrados, com informações sobre cada matricula;
 - Exibir informações detalhadas de um aluno selecionado; 
 - Adicionar um novo aluno à lista;
 - Alterar um aluno da lista;
-- E apagar um aluno da lista.
+- Apagar um aluno da lista.
 
 ## Requisitos do projeto
 
