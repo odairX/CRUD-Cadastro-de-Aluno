@@ -113,16 +113,21 @@ Agora vamos entender cada estrutura e pasta do codigo e seus metodos e classes.
 
 -txtEndereco
 
-*Controle Button:
+* Controle Button:
 
 btnProcurar
+
 btnNovo
+
 btnAlterar
+
 btnExclui
+
 btnLimpa
+
 btnSair
 
-*Controle DataGridView
+* Controle DataGridView
 
 dgvAlunos
 
@@ -138,11 +143,11 @@ O atributo instanciaFireBird é obtido via método getInstancia que é do tipo d
 
 Temos também a definição dos seguintes métodos:
 
-*fb_GetDados - retorna um DataTable com as informações da tabela Alunos;
-*fb_InserirDados - Recebe como parâmetro um objeto Aluno inclui um novo aluno na tabela;
-*fb_ExcluirDados - Exclui um aluno existente pelo sua Matricula;
-*fb_AlterarDados - Recebe como parâmetro um objeto aluno altere as informações de um aluno na tabela;
-*fb_ProcuraDados - Localiza os dados de um aluno pelo sua matricula;
+* fb_GetDados - retorna um DataTable com as informações da tabela Alunos;
+* fb_InserirDados - Recebe como parâmetro um objeto Aluno inclui um novo aluno na tabela;
+* fb_ExcluirDados - Exclui um aluno existente pelo sua Matricula;
+* fb_AlterarDados - Recebe como parâmetro um objeto aluno altere as informações de um aluno na tabela;
+* fb_ProcuraDados - Localiza os dados de um aluno pelo sua matricula;
 
 Dessa forma, temos uma classe que representa uma camada de acesso aos dados onde tratamos o acesso e a persistência aos dados.
 
