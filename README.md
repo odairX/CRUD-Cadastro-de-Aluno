@@ -89,16 +89,15 @@ Selecionando a guia Browse e localizando o local onde você instalou as depedên
 
 ![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img7.PNG)
 
-### DEPOIS DE TERMINAR COM O BANCO DE DADOS FIREBIRD
+*DEPOIS DE TERMINAR COM O BANCO DE DADOS FIREBIRD
 
 ## Estrutura do sistema CRUD Aluno
 
-### O componente `Gerenciador de Soluçoes` no Visual Studio deve exibir a estrutura do app ao lado direito comforme imagem abaixo.
+O componente Gerenciador de Soluçoes no Visual Studio deve exibir a estrutura do app ao lado direito comforme imagem abaixo.
 
 ![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img8.PNG)
 
 Agora vamos entender cada estrutura e pasta do codigo e seus metodos e classes.
-
 
 1. Na classe form1.cs a partir da ToolBox, foi definido e criado os controles GroupBox, Label, TextBox, Button e DataGridView conforme o leiaute do sistema.
 
@@ -145,7 +144,7 @@ Dessa forma, temos uma classe que representa uma camada de acesso aos dados onde
 
 3. A Classe Aluno.cs 
 
-namespace CRUD_Aluno
+`namespace CRUD_Aluno
 {
     public class Aluno
     {
@@ -156,7 +155,7 @@ namespace CRUD_Aluno
         public string Endereco { get; set; }
     }
 }
-
+`
 Definindo o domínio, esta classe servirá basicamente como um DTO (Data Transfer Object) onde iremos repassar as informações entre a camada de interface e a camada de acesso aos dados.
 
 4. Preenchendo os dados armazenados no DataGridView
