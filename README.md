@@ -89,7 +89,7 @@ Selecionando a guia Browse e localizando o local onde você instalou as depedên
 
 ![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img7.PNG)
 
-*DEPOIS DE TERMINAR COM O BANCO DE DADOS FIREBIRD
+Assim, foi criando e instalando o BANCO DE DADOS FIREBIRD.
 
 ## Estrutura do sistema CRUD Aluno
 
@@ -104,9 +104,13 @@ Agora vamos entender cada estrutura e pasta do codigo e seus metodos e classes.
 * Controles TextBox:
 
 -txtMT
+
 -txtNome
+
 -txtEmail
+
 -txtTelefone
+
 -txtEndereco
 
 *Controle Button:
@@ -144,6 +148,7 @@ Dessa forma, temos uma classe que representa uma camada de acesso aos dados onde
 
 3. A Classe Aluno.cs 
 
+
 `namespace CRUD_Aluno
 {
     public class Aluno
@@ -156,6 +161,7 @@ Dessa forma, temos uma classe que representa uma camada de acesso aos dados onde
     }
 }
 `
+
 Definindo o domínio, esta classe servirá basicamente como um DTO (Data Transfer Object) onde iremos repassar as informações entre a camada de interface e a camada de acesso aos dados.
 
 4. Preenchendo os dados armazenados no DataGridView
@@ -164,15 +170,15 @@ No evento Load do formulário vamos preencher o controle DataGridView com todos 
 
 Para isso defina o código abaixo neste evento:
 
-  private void Form1_Load(object sender, EventArgs e)
+  `private void Form1_Load(object sender, EventArgs e)
   {
             preencheGrid();
- }
+ }`
 
 5. O tipo de conversão usado foi o `Convert` método de conversão para converter cada tipo base em todos os outros tipos base. Nesse caso
 converter o tipo inteiro em string ( Exibir em texto ), veja exemplo do codigo abaixo:
 
-  private void btnProcurar_Click(object sender, EventArgs e)
+  `private void btnProcurar_Click(object sender, EventArgs e)
     {
         int codigo = Convert.ToInt32(txtMT.Text);
         Alunos aluno = new Alunos();
@@ -185,6 +191,6 @@ converter o tipo inteiro em string ( Exibir em texto ), veja exemplo do codigo a
             MessageBox.Show(ex.Message, "Erro", MessageBoxButtons.OK);
         }
         preencheDados(aluno);
-    }
+    }`
 
 Portanto, foi utilizando o banco de dados FireBird, o provedor FireBird .NET e os recursos da ADO .NET criando uma camada de acesso a dados e implementamos os métodos que permitem realizar as operações CRUD na tabela Clientes.
