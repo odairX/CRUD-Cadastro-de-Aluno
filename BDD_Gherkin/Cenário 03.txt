@@ -1,0 +1,10 @@
+#language: pt
+Funcionalidade: Alterar Aluno
+@AlterarSucesso
+Cenario: Aluno Alterando com Sucesso
+Dado que o usuário acessa a página de cadastro
+Quando a Matricula é informada para procurar e alterar
+Exemplo
+Entao deve clicar no botão "Alterar"
+    E exibir a mensagen "Aluno alterando com Sucesso".
+       

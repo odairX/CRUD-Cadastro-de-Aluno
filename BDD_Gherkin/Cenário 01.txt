@@ -1,0 +1,9 @@
+#language: pt
+Funcionalidade: Novo Aluno
+@CadastroSucesso
+Cenario: Aluno inserindo com Sucesso
+Dado que o usuário acessa a página de cadastro
+Quando os dados são informados para preencher
+Exemplo
+Entao deve ser clicar no botão "Novo"
+    É exibir a mensagen "Aluno inserindo com Sucesso".

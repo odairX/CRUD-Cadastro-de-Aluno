@@ -1,0 +1,10 @@
+#language: pt
+Funcionalidade: Sair
+@SairSucesso
+Cenario: Sai da tela Cadastro Aluno
+Dado que o usuário acessa a página de cadastro
+Quando realizam as operações desejadas 
+     E não que utilizar mais o sistema
+Exemplo
+Entao deve clicar no botão "Sair"
+    E fecha a tela Cadastro Aluno.

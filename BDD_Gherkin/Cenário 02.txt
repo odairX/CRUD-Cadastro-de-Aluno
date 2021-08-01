@@ -1,0 +1,9 @@
+#language: pt
+Funcionalidade: Exclui Aluno
+@ExcluiSucesso
+Cenario: Aluno Excluindo com Sucesso
+Dado que o usuário acessa a página de cadastro
+Quando a matricula é informada para procurar e excluir
+Exemplo
+Entao deve clicar no botão "Excluir" 
+    E exibir a mensagen "Aluno excluindo com Sucesso".

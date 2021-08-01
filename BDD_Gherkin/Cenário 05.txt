@@ -1,0 +1,9 @@
+#language: pt
+Funcionalidade: Procurar Aluno
+@ProcurarSucesso
+Cenario: Procurar Aluno
+Dado que o usuário acessa a página de cadastro
+Quando informa a matricula na tela cadastro
+Exemplo
+Entao deve clicar no botão "Procurar"
+    E exibir na tela abaixo os dados do aluno.

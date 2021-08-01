@@ -1,0 +1,9 @@
+#language: pt
+Funcionalidade: Limpar Aluno
+@LimparSucesso
+Cenario: Limpar tela Cadastro Aluno
+Dado que o usuário acessa a página de cadastro
+Quando é informado os dados e a tela fica preenchida
+Exemplo
+Entao deve clicar no botão "Limpar"
+    E a tela Cadastro Aluno fica em branco. 
