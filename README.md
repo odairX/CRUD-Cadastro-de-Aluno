@@ -42,7 +42,11 @@ Assim que baixado o projeto no github, você poderá carregar o projeto no Micro
 
 ![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img2.PNG)
 
-##Instruções de funcionamento do sistema:
+Na pasta `BDD_Gherkin` contém arquivos do Desenvolvimento Orientado ao Comportamento ( BDD ) utilizando Gherkin que é uma forma de escrita de documento, através da
+liguagem natural, desenvolvida para auxiliar a criação e entendimento acerca das especificações levantadas para o desenvolvimento de um software. 
+ 
+
+## Instruções de funcionamento do sistema:
 
 A primeira tarefa será criar um banco de dados e uma tabela no FireBird. Conforme imagem abaixo, mostra a ferramenta de linha de comando ISQL que é instalada junto com o Banco de Dados FireBird. Vamos criar um banco de dados com o nome aluno.fbd na pasta que você escolher no seu PC. Para isso podemos usar o comando CREATE DATABASE;
 
