@@ -4,7 +4,7 @@
 
 Este repositório contém arquivos criados e configurados de acordo com ambiente de densevolvimento listado abaixo. Nele vai ser apresentado como criar um CRUD cadastro aluno acessando o Banco de Dados e a tabela no FireBird usando a ferramenta de linha de comando ISQL Tool que vem junto como FireBird. 
 
-Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você precisará realizar algumas configuração adicionais. 
+Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você precisará realizar algumas configurações adicionais. 
 
 Todos os componentes estritamente necessários para o projeto já estão criados, mas você pode adicionar outros se julgar necessário. Você deverá complementar estes componentes de forma a satisfazer os requisitos listados na próxima seção.
 
@@ -93,7 +93,7 @@ Assim, foi criando e instalando o BANCO DE DADOS FIREBIRD.
 
 ## Estrutura do sistema CRUD Aluno
 
-O componente Gerenciador de Soluçoes no Visual Studio deve exibir a estrutura do app ao lado direito comforme imagem abaixo.
+O componente Gerenciador de Soluçoes no Visual Studio deve exibir a estrutura do app ao lado direito conforme imagem abaixo.
 
 ![alt text](https://github.com/odairX/CRUD-Cadastro-de-Aluno-Escolar-Manager-2020-2/blob/master/img/img8.PNG)
 
