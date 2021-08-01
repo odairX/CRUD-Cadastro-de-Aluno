@@ -104,32 +104,23 @@ Agora vamos entender cada estrutura e pasta do codigo e seus metodos e classes.
 * Controles TextBox:
 
 -txtMT
-
 -txtNome
-
 -txtEmail
-
 -txtTelefone
-
 -txtEndereco
 
 * Controle Button:
 
-btnProcurar
-
-btnNovo
-
-btnAlterar
-
-btnExclui
-
-btnLimpa
-
-btnSair
+-btnProcurar
+-btnNovo
+-btnAlterar
+-btnExclui
+-btnLimpa
+-btnSair
 
 * Controle DataGridView
 
-dgvAlunos
+-dgvAlunos
 
 2. A Classe AcessoFB.cs
 
@@ -198,4 +189,4 @@ converter o tipo inteiro em string ( Exibir em texto ), veja exemplo do codigo a
         preencheDados(aluno);
     }`
 
-Portanto, foi utilizando o banco de dados FireBird, o provedor FireBird .NET e os recursos da ADO .NET criando uma camada de acesso a dados e implementamos os métodos que permitem realizar as operações CRUD na tabela Clientes.
+Portanto, foi utilizando o banco de dados FireBird, o provedor FireBird .NET e os recursos da ADO .NET criando uma camada de acesso a dados e implementamos os métodos que permitem realizar as operações CRUD na tabela Alunos.
