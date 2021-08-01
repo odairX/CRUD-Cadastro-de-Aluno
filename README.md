@@ -4,7 +4,7 @@
 
 Este repositório contém arquivos criados e configurados de acordo com ambiente de densevolvimento listado abaixo. Nele vai ser apresentado como criar um CRUD cadastro aluno acessando o Banco de Dados e a tabela no FireBird usando a ferramenta de linha de comando ISQL Tool que vem junto como FireBird. 
 
-Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você não precisará realizar algumas configuração adicionais. 
+Após clonar o projeto e instalar as dependências (mais sobre isso abaixo), você precisará realizar algumas configuração adicionais. 
 
 Todos os componentes estritamente necessários para o projeto já estão criados, mas você pode adicionar outros se julgar necessário. Você deverá complementar estes componentes de forma a satisfazer os requisitos listados na próxima seção.
 
