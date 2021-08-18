@@ -1,4 +1,4 @@
-# CRUD-Cadastro-de-Aluno-Escolar-Manager-2021-2
+# CRUD-Cadastro-de-Aluno-Escolar
 
 ## Escopo do Projeto
 
